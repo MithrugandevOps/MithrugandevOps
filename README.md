@@ -1,17 +1,10 @@
 <h1 align="center">Hey Everyone 👋, I'm Mithrugan KS</h1>
 
-<div align="center">
-  <img src="https://github.com/MithrugandevOps/MithrugandevOps/blob/main/Banner.png" alt="MithrugandevOps Banner" />
-</div>
-
-
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MithrugandevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 
 
 ### 👨‍💻 About Me
