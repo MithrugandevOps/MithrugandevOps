@@ -31,26 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MithrugandevOps&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MithrugandevOps&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MithrugandevOps&theme=vue&hide_border=true)
-
----
-
 ### 📬 Connect with Me
 
 <p>
