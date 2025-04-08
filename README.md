@@ -23,8 +23,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MithrugandevOps](https://github.com/MithrugandevOps)  
-- 💬 Ask me about **DevOps, Cloud, and Automation**  
-- 📫 How to reach me **office@mithrugan.dev**
+
 
 ---
 
@@ -76,11 +75,9 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+### 👨‍💼 About Me 
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
+
 📧 Let’s chat: [mithrugan.devops@gmail.com](mailto:mithrugan.devops@gmail.com)
 
 > *"Empowering people to break into DevOps with practical, hands-on learning. Let’s build and automate the future together!"*
