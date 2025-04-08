@@ -4,6 +4,24 @@
   <img src="https://github.com/MithrugandevOps/MithrugandevOps/blob/main/Banner.png" alt="MithrugandevOps Banner" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/MithrugandevOps">
+    <img src="https://img.shields.io/github/followers/MithrugandevOps?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@mithrugan">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+  </a>
+  <a href="https://linkedin.com/in/mithrugan-ks">
+    <img src="https://img.shields.io/badge/LinkedIn-Mithrugan%20KS-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MithrugandevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 
 ### 👨‍💻 About Me
