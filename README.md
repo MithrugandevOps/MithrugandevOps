@@ -2,9 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MithrugandevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
 
 ### 👨‍💻 About Me
 
@@ -40,7 +38,12 @@
 
 ### 💬 Contact
 
-📧 Email: [mithrugan.devops@gmail.com](mailto:mithrugan.devops@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/mithruganks](https://www.linkedin.com/in/mithruganks)  
+<p align="left">
+  📧 Email: <a href="mailto:mithrugan.devops@gmail.com">mithrugan.devops@gmail.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mithruganks" target="_blank">linkedin.com/in/mithruganks</a><br><br>
+  <img src="https://komarev.com/ghpvc/?username=MithrugandevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 💬 Let's collaborate and automate the future!
+
 
