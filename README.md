@@ -6,11 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=MithrugandevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
 ### 👨‍💻 About Me
 
 - 🔧 I'm a DevOps Engineer passionate about automation, CI/CD, and cloud-native tools.
-- 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Azure, Git, Grafana, Prometheus, MySQL, Redis
+- 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Azure, Git, Grafana, Prometheus, MySQL, Redis.
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
 ---
@@ -32,9 +31,16 @@
 
 ---
 
+### ✍️ Blog Posts
+
+- [Jenkins - Version Node Monitor](https://medium.com/@ksmithrugan10/jenkins-version-node-monitor-9bd8c9bb5acb)
+- [GCP - Backup and DR](https://medium.com/@ksmithrugan10/gcp-backup-and-dr-5fa2f684354f)
+
+---
+
 ### 💬 Contact
 
 📧 Email: [mithrugan.devops@gmail.com](mailto:mithrugan.devops@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/mithruganks](https://www.linkedin.com/in/mithruganks)  
 💬 Let's collaborate and automate the future!
 
-> _“Empowering people to break into DevOps with practical, hands-on learning.”_
