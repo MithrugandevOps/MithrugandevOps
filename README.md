@@ -31,7 +31,8 @@
 
 ### 🛠️ Projects
 
--  Configured **Jenkins master-slave setup** for efficient CI/CD processes.
+-  Developed a Jenkins Declarative Pipeline to automate the deployment process. The pipeline begins by executing PHP unit tests using Apache Ant. Upon successful completion of the tests, the code is automatically deployed to the production     environment, ensuring a streamlined and reliable CI/CD workflow
+-  Designed and deployed a highly available VPC infrastructure with two public and two private subnets, isolated database subnets, and a Bastion Host for secure access. Configured separate route tables for enhanced security and implemented     two NAT Gateways across multiple Availability Zones for fault tolerance.
 -  Configured **AWS CI/CD pipelines** for automated application deployment.
 -  Configured **Jenkins CI/CD pipelines** for streamlined application delivery.
 -  Utilized **Terraform** to deploy a highly available Jenkins server.
@@ -39,7 +40,6 @@
 -  Developed **Jenkins Version Node Monitoring Plugin** to ensure correct NPM and Node.js versions are used during builds.
 -  Deployed a **web application on AWS Elastic Kubernetes Service (EKS)** and monitored it using **Lens dashboard**.
 -  Deployed a **Node.js application on AWS Elastic Container Service (ECS)** for scalable containerized workloads.
--  Designed and deployed a highly available VPC infrastructure with two public and two private subnets, isolated database subnets, and a Bastion Host for secure access. Configured separate route tables for enhanced security and implemented     two NAT Gateways across multiple Availability Zones for fault tolerance.
 -  Automated **daily RDS backups** with a shell script scheduled via crontab on an Ubuntu server, storing backups securely in Amazon S3.
 -  Implemented **AWS Auto Scaling** for efficient and cost-effective resource management.
 -  Configured and hosted an **SFTP server** setup for secure file transfers.
