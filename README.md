@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🔧 I'm a DevOps Engineer passionate about automation, CI/CD, and cloud-native tools.
-- 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Azure, Git, Grafana, Prometheus, MySQL, Redis
+- 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Azure, Git, Grafana, Prometheus, MySQL, Redis.
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
 ---
@@ -29,6 +29,22 @@
 
 ---
 
+### 🛠️ Projects
+
+-  Configured **Jenkins master-slave setup** for efficient CI/CD processes.
+-  Configured **AWS CI/CD pipelines** for automated application deployment.
+-  Configured **Jenkins CI/CD pipelines** for streamlined application delivery.
+-  Utilized **Terraform** to deploy a highly available Jenkins server.
+-  Implemented **Prometheus and Grafana dashboards** to monitor EC2 metrics with Slack integration; configured **Grafana Loki** for centralized log monitoring.
+-  Developed **Jenkins Version Node Monitoring Plugin** to ensure correct NPM and Node.js versions are used during builds.
+-  Deployed a **web application on AWS Elastic Kubernetes Service (EKS)** and monitored it using **Lens dashboard**.
+-  Deployed a **Node.js application on AWS Elastic Container Service (ECS)** for scalable containerized workloads.
+-  Automated **daily RDS backups** with a shell script scheduled via crontab on an Ubuntu server, storing backups securely in Amazon S3.
+-  Implemented **AWS Auto Scaling** for efficient and cost-effective resource management.
+-  Configured and hosted an **SFTP server** setup for secure file transfers.
+
+---
+
 ### ✍️ Blog Posts
 
 - [Jenkins - Version Node Monitor](https://medium.com/@ksmithrugan10/jenkins-version-node-monitor-9bd8c9bb5acb)
@@ -46,4 +62,4 @@
 
 💬 Let's collaborate and automate the future!
 
-
+---
