@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Dedicated and diligent engineer with work experience in DevOps, specializing in ensuring the performance, scalability, and reliability of web applications and infrastructure. Capable of proactively improving system stability, addressing issues, monitoring, and troubleshooting systems. Skilled at streamlining operations and increasing productivity through the application of DevOps concepts and automation tools. A reliable and cooperative team player, actively collaborating with colleagues to ensure the smooth operation and reliability of web applications and systems. Focused on providing dependable and effective solutions that enhance the user experience and contribute to the success of web applications
+- 🚀 A dedicated DevOps engineer with hands-on experience in optimizing the performance, scalability, and reliability of web applications and infrastructure. Skilled in proactively improving system stability, monitoring, troubleshooting, and resolving issues efficiently. Adept at streamlining operations and enhancing productivity through automation and DevOps best practices. A dependable and collaborative team player, committed to delivering reliable solutions that enhance user experience and drive the success of web platforms.
 
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
