@@ -11,7 +11,6 @@
 
 - 🔧 I'm a DevOps Engineer passionate about automation, CI/CD, and cloud-native tools.
 - 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Azure, Git, Grafana, Prometheus, MySQL, Redis
-- 📂 All my projects are available on my [GitHub](https://github.com/MithrugandevOps).
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
 ---
