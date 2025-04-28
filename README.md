@@ -39,6 +39,7 @@
 -  Developed **Jenkins Version Node Monitoring Plugin** to ensure correct NPM and Node.js versions are used during builds.
 -  Deployed a **web application on AWS Elastic Kubernetes Service (EKS)** and monitored it using **Lens dashboard**.
 -  Deployed a **Node.js application on AWS Elastic Container Service (ECS)** for scalable containerized workloads.
+-  Designed and deployed a highly available VPC infrastructure with two public and two private subnets, isolated database subnets, and a Bastion Host for secure access. Configured separate route tables for enhanced security and implemented     two NAT Gateways across multiple Availability Zones for fault tolerance.
 -  Automated **daily RDS backups** with a shell script scheduled via crontab on an Ubuntu server, storing backups securely in Amazon S3.
 -  Implemented **AWS Auto Scaling** for efficient and cost-effective resource management.
 -  Configured and hosted an **SFTP server** setup for secure file transfers.
