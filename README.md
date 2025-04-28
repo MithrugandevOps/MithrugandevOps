@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 A dedicated DevOps engineer with hands-on experience in optimizing the performance, scalability, and reliability of web applications and infrastructure. Skilled in proactively improving system stability, monitoring, troubleshooting, and resolving issues efficiently. Adept at streamlining operations and enhancing productivity through automation and DevOps best practices. A dependable and collaborative team player, committed to delivering reliable solutions that enhance user experience and drive the success of web platforms.
-
+- 🔧 I'm a DevOps Engineer passionate about automation, CI/CD, and cloud-native tools.
+- 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Azure, Git, Grafana, Prometheus, MySQL, Redis
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
 ---
