@@ -30,15 +30,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
 </p>
 
-### 📬 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/mithrugan-ks" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-</p>
-
 ---
 
 ### 💬 Contact
