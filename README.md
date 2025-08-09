@@ -32,9 +32,9 @@
 ### 🛠️ Projects
 -  Designed and deployed a production-grade microservices-based e-commerce application on AWS EKS using Docker, Kubernetes, Terraform, Helm, GitHub Actions, and Argo CD.
 Implemented full CI/CD pipelines, infrastructure as code, and automated deployments with GitHub Actions and Argo CD.Gained hands-on experience in containerization, cloud infrastructure provisioning, and Kubernetes orchestration for real-world DevOps workflows.
--Developed custom Terraform modules to provision AWS VPC and EKS clusters, with:
- -S3 as the remote backend for state files
- -DynamoDB for state locking
+-  Developed custom Terraform modules to provision AWS VPC and EKS clusters, with:
+S3 as the remote backend for state files
+DynamoDB for state locking
 -  Developed a Jenkins Declarative Pipeline to automate the deployment process. The pipeline begins by executing PHP unit tests using Apache Ant. Upon successful completion of the tests, the code is automatically deployed to the production environment, ensuring a streamlined and reliable CI/CD workflow
 -  Designed and deployed a highly available VPC infrastructure with two public and two private subnets, isolated database subnets, and a Bastion Host for secure access. Configured separate route tables for enhanced security and implemented     two NAT Gateways across multiple Availability Zones for fault tolerance.
 -  Configured **AWS CI/CD pipelines** for automated application deployment.
