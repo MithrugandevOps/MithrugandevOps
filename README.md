@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 I'm a DevOps Engineer passionate about automation, CI/CD, and cloud-native tools.
+- 🔧 I'm a DevSecOps Engineer passionate about automation, CI/CD, and cloud-native tools.
 - 🚀 Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Terraform, Azure, Git, Grafana, Prometheus, MySQL, Redis.
 - 🎯 Always learning and exploring new tech to improve infrastructure and deployment workflows.
 
